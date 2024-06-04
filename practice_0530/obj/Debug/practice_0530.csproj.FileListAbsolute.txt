@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ConsoleApps\practice_0530\bin\Debug\practice_0530.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\practice_0530\bin\Debug\practice_0530.exe
+C:\Users\Owner\Desktop\ConsoleApps\practice_0530\bin\Debug\practice_0530.pdb
+C:\Users\Owner\Desktop\ConsoleApps\practice_0530\obj\Debug\practice_0530.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\practice_0530\obj\Debug\practice_0530.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\practice_0530\obj\Debug\practice_0530.exe
+C:\Users\Owner\Desktop\ConsoleApps\practice_0530\obj\Debug\practice_0530.pdb

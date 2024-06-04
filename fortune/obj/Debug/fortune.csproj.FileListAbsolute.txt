@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ConsoleApps\fortune\bin\Debug\fortune.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\fortune\bin\Debug\fortune.exe
+C:\Users\Owner\Desktop\ConsoleApps\fortune\bin\Debug\fortune.pdb
+C:\Users\Owner\Desktop\ConsoleApps\fortune\obj\Debug\fortune.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\fortune\obj\Debug\fortune.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\fortune\obj\Debug\fortune.exe
+C:\Users\Owner\Desktop\ConsoleApps\fortune\obj\Debug\fortune.pdb

@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ConsoleApps\objective\bin\Debug\objective.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\objective\bin\Debug\objective.exe
+C:\Users\Owner\Desktop\ConsoleApps\objective\bin\Debug\objective.pdb
+C:\Users\Owner\Desktop\ConsoleApps\objective\obj\Debug\objective.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\objective\obj\Debug\objective.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\objective\obj\Debug\objective.exe
+C:\Users\Owner\Desktop\ConsoleApps\objective\obj\Debug\objective.pdb

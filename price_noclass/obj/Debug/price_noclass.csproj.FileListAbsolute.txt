@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ConsoleApps\price_noclass\bin\Debug\price_noclass.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\price_noclass\bin\Debug\price_noclass.exe
+C:\Users\Owner\Desktop\ConsoleApps\price_noclass\bin\Debug\price_noclass.pdb
+C:\Users\Owner\Desktop\ConsoleApps\price_noclass\obj\Debug\price_noclass.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\price_noclass\obj\Debug\price_noclass.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\price_noclass\obj\Debug\price_noclass.exe
+C:\Users\Owner\Desktop\ConsoleApps\price_noclass\obj\Debug\price_noclass.pdb

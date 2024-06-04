@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\bin\Debug\practice0523.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\bin\Debug\practice0523.exe
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\bin\Debug\practice0523.pdb
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\bin\Debug\practice0523.xml
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\obj\Debug\practice0523.vbproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\obj\Debug\practice0523.Resources.resources
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\obj\Debug\practice0523.vbproj.GenerateResource.cache
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\obj\Debug\practice0523.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\obj\Debug\practice0523.exe
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\obj\Debug\practice0523.xml
+C:\Users\Owner\Desktop\ConsoleApps\practice0523\obj\Debug\practice0523.pdb

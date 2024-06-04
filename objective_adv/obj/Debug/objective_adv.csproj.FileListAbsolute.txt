@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ConsoleApps\objective_adv\bin\Debug\objective_adv.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\objective_adv\bin\Debug\objective_adv.exe
+C:\Users\Owner\Desktop\ConsoleApps\objective_adv\bin\Debug\objective_adv.pdb
+C:\Users\Owner\Desktop\ConsoleApps\objective_adv\obj\Debug\objective_adv.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\objective_adv\obj\Debug\objective_adv.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\objective_adv\obj\Debug\objective_adv.exe
+C:\Users\Owner\Desktop\ConsoleApps\objective_adv\obj\Debug\objective_adv.pdb

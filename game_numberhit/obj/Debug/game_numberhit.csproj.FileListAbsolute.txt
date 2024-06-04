@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ConsoleApps\game_numberhit\bin\Debug\game_numberhit.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\game_numberhit\bin\Debug\game_numberhit.exe
+C:\Users\Owner\Desktop\ConsoleApps\game_numberhit\bin\Debug\game_numberhit.pdb
+C:\Users\Owner\Desktop\ConsoleApps\game_numberhit\obj\Debug\game_numberhit.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\game_numberhit\obj\Debug\game_numberhit.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\game_numberhit\obj\Debug\game_numberhit.exe
+C:\Users\Owner\Desktop\ConsoleApps\game_numberhit\obj\Debug\game_numberhit.pdb

@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\ConsoleApps\price_class\obj\Debug\price_class.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApps\price_class\obj\Debug\price_class.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApps\price_class\bin\Debug\price_class.exe.config
+C:\Users\Owner\Desktop\ConsoleApps\price_class\bin\Debug\price_class.exe
+C:\Users\Owner\Desktop\ConsoleApps\price_class\bin\Debug\price_class.pdb
+C:\Users\Owner\Desktop\ConsoleApps\price_class\obj\Debug\price_class.exe
+C:\Users\Owner\Desktop\ConsoleApps\price_class\obj\Debug\price_class.pdb
